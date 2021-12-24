@@ -48,10 +48,10 @@ public:
 #define SEGMENT_3  B10110000 //0, 1, 2, 3, 6
 #define SEGMENT_4  B10011001 //1, 2, 5, 6
 #define SEGMENT_5  B10010010 //0, 2, 3, 5, 6
-#define SEGMENT_6  B10000011 //2, 3, 4, 5, 6
+#define SEGMENT_6  B10000010 //2, 3, 4, 5, 6
 #define SEGMENT_7  B11111000 //0, 1, 2
 #define SEGMENT_8  B10000000 //All but 7
-#define SEGMENT_9  B10011000 //0, 1, 2, 5, 6
+#define SEGMENT_9  B10010000 //0, 1, 2, 5, 6
 
 #define SEGMENT_0D  B01000000
 #define SEGMENT_1D  B01111001
